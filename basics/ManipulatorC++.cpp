@@ -1,6 +1,5 @@
 #include<iostream>
 #include<iomanip>
-
 using namespace std;
 
 int main() {
@@ -8,4 +7,6 @@ int main() {
     cout<<"a :"<<setw(5)<<a<<endl;
     cout<<"b :"<<setw(5)<<b<<endl;
     cout<<"c :"<<setw(5)<<c<<endl;
+    return 0;
+
 }
